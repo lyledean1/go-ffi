@@ -1,4 +1,4 @@
-# go-ffi
+# Go -> Rust via ffi 
 
 Execute Rust code via FFI. 
 
