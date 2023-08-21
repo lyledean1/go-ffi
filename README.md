@@ -1,6 +1,6 @@
-# Go ffi Examples
+# Go ffi
 
-Simple example of using ffi in Go with Rust and Zig.
+Simple examples of using ffi in Go with Rust and Zig.
 
 I've set up a more complex example of using Rust with Flutter via ffi, so this is more a mini PoC with Go. See [Flutter Whisper.cpp](https://github.com/lyledean1/flutter_whisper.cpp) and my talk on [ffi with Rust at Fluttercon](https://www.droidcon.com/2023/08/07/supercharging-your-flutter-apps-with-rust/)
 
